@@ -1,0 +1,19 @@
+body {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+img {
+  display: block;
+}
+
+
+#image {
+  max-width: 100%;
+  height: auto;
+  margin: auto;
+}
+
+figcaption {
+  padding: 3rem;
+}
